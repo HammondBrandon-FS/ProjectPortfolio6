@@ -1,4 +1,8 @@
-# Project & Portfolio 6
+# Project & Portfolio 6 
+<img src="Logo_Idea.png" alt= “” width="100" height="100">
+
+Hammond Designs
+
 > This repo will be used to keep track of the steps and progress of my Portfolio/Storfront website for my design and development agency.
 > Live demo [_here_](https://www.hammonddesigns.me).
 
@@ -6,6 +10,7 @@
 * [Plan](#plan)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
+* [Project List](#project-list)
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
 * [Contact](#contact)
@@ -38,7 +43,77 @@ List the ready features here:
 - Contact Page
 
 
+## Project List
+| Class | Project | Language | Status | Scope | Portfolio |
+| ----- | ------- | -------- | ------ | ----- | --------- |
+| ITD1 | Xamarin Projects | C# | Complete | Console Apps | No |
+| ITD2 | Conversion and Prompting | C# | Complete | Console Apps | No |
+| | Mad Libs | C# | Complete | Console Apps | No |
+| | User Prompt | C# | Complete | Console Apps | No |
+| | Loops Review | C# | Complete | Console Apps | No |
+| | Arrays | C# | Complete | Console Apps | No |
+| | Lists | C# | Complete | Console Apps | No |
+| | Dictionaries | C# | Complete | Console Apps | No |
+| | Advanced Dictionaries | C# | Complete | Console Apps | No |
+| | Synthesis | C# | Complete | Console Apps | No |
+| | Methods | C# | Complete | Console Apps | No |
+| | Menus | C# | Complete | Console Apps | No |
+| | String Objects | C# | Complete | Console Apps | No |
+| | Final - Book Quotes | C# | Complete | Console Apps | No |
+| APD | FileIO | C# | Complete | Console Apps | No |
+| | Travel Planner | C# | Complete | Console App | No |
+| | Tic Tac Toe | C# | Complete | Console App | No |
+| | High Low Guessing Game | C# | Complete | Console App | No |
+| | Loan Tracker | C# | Complete | Console App | No |
+| | Mastermind | C# | Complete | Console App | No |
+| | Math Problem | C# | Complete | Console App | No |
+| | Jukebox | C# | Complete | Console App | No |
+| | Hangman | C# | Complete | Console App | No |
+| | Calorie Counter | C# | Complete | Console App | No |
+| | Little Free Library | C# | Complete | Console App | No |
+| | Game Console | C# | Complete | Console App | No |
+| ADF | Git Repo - User Login | C# | Complete | Console App | No |
+| Application Architecture | WAR Card Game | C# | Complete | Console App | No |
+| | Course Manager | C# | Complete | Console App | No |
+| | Payroll Tracker | C# | Complete | Console App | No |
+| | Zoo Animals App | C# | Complete | Console App | No |
+| | API - Movie/show Watchlist | C# | Complete | Console App | No |
+| EID | Wireframes | N/A | Complete | Drawn Images for app concept | No |
+| | Digital Wireframes | N/A | Complete | Wireframes converted to XD | No |
+| | Style Guide | N/A | Complete | Adobe Illustrater style guide | No |
+| | IPhone Prototype | N/A | Complete | XD Prototype for app concept | No |
+| Interfaces and Usability | Project Concept | N/A | Complete | Project proposal/concept .pdf | No |
+| | Style Tiles | N/A | Complete | Style tiles built in Photoshop | No |
+| | LOWFI Wireframes (mobile/web) | N/A | Complete | LOWFI XD Wireframes | No |
+| | HIFI Wireframes | N/A | Complete | HIFI XD Wireframes | No |
+| SSL | Grader | JS/Python/Ruby | Complete | Console App - assigns letter grades | No |
+| | Web Server | ExpressJS | Complete | Express server with Bootstrap front end template | Maybe |
+| | Form Validation | JS | Complete | Simple form validation within a POST | No |
+| PRW | Profile | React | Complete-Needs updates | CSimple web app that pulls random profile from API | Maybe |
+| PP2 | Contacts Web App | HTML/CSS/JS | Complete | Web App that keeps track of contact info | No |
+| PP3 | LOFI Wireframe | N/A | Complete |  | No |
+| | HIFI Wireframe | N/A | Complete |  | Maybe |
+| | Website(Investing) | HTML/CSS/JS | Complete-Needs updates | Website concept for wife | Maybe |
+| PP4 | LOFI Wireframe | N/A | Complete |  | No |
+| | HIFI Wireframe | N/A | Complete |  | No |
+| | Website(Bible App) | REACT/JS/CSS | Complete | Bible app that pulls Bibles from API | Maybe |
+| PP5 | Redux Tutorial | React/Redux | Complete | Simple tutorial build from redux site | No |
+| IPG | Xamarin Forms Code Exercises | C# | Complete | Learning to use Xamarin Forms | No |
+| DWS | Existing site pages | HTML/CSS | Complete | Simple recreation of site pages | No |
+| DWS2 | Kanban Board Project | HTML/CSS/JS | Complete | Kanban Board built to connect to API | Maybe |
+| ADB | MongoDB Build | Mongo | Complete | DB built on virtualbox | No |
+| ADT | Design System | N/A | Complete | Design system built in XD | No |
+| | Components Design | N/A | Complete | XD and After Effects use for component and animation ideas | No |
+| | All Artboards and Complete Design System | N/A | Complete | Fully Expressed ideas with screen designs | No |
+| Design Patterns | Movie Project App | HTML/CSS/JS | Complete-Needs style update | Web App that shows movie poster, title, and duration using Canvas | Maybe |
+| ASL | Quizzes App | React/Express | Incomplete-Needs a lot of reworking | Sequelize DB/Express/React front end | Maybe |
+| WAI/DWA | Sunday Setlist Site/App | React/Express | Incomplete-Needs backend and login finished | App for worship teams that allows for setlist creation | Maybe |
+| Personal | Wife's Website | ReactJS | Incomplete-Only has a functioning home page | Future website for my wife | Maybe |
+| | Dad's Website Ideas | N/A | Incomplete-Only been designed in XD | Future website for my dad. | Maybe |
+
+
 ## Screenshots
+To be added as progress is made.
 ![Example screenshot](./img/screenshot.png)
 <!-- Screenshots here. -->
 
